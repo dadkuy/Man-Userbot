@@ -1,3 +1,3 @@
-FROM mrismanaziz/man-userbot:slim-buster
-
-CMD [ "bash", "start" ]
+DARI /man-userbot:slim-busterslim-busterslim-busterslim-buster
+saya
+CMD [ "bash" , "mulai" ]
